@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects [https://bant.io/, https://kyliecosmetics.com/ , https://www.saudipayments.com/ , https://www.yumyumvideos.com/](https://bant.io/, https://kyliecosmetics.com/ , https://www.saudipayments.com/ , https://www.yumyumvideos.com/)
+- 👨‍💻 All of my projects (https://bant.io/, https://kyliecosmetics.com/ , https://www.saudipayments.com/ , https://www.yumyumvideos.com/)
 
 - 💬 Ask me about **Html, Css, Bootstrap, PHP, React and Wordpress**
 
