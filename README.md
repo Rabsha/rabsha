@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects (https://bant.io/, https://kyliecosmetics.com/ , https://www.saudipayments.com/ , https://www.yumyumvideos.com/)
 
-- 💬 Ask me about **Html, Css, Bootstrap, PHP, React and Wordpress**
+- 💬 Ask me about **HTML5/CSS3, BOOTSTRAP, PHP, JQUERY, AJAX, MYSQL, JAVASCRIPT, REACT.JS, NEXT.JS, GATSBY & WORPDRESS**
 
 - 📫 How to reach me **rabshasiddiqui@gmail.com**
 
