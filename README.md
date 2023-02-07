@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects (https://bant.io/, https://kyliecosmetics.com/ , https://www.saudipayments.com/ , https://www.yumyumvideos.com/)
+- 👨‍💻 All of my projects (https://bant.io/, https://kyliecosmetics.com/ , https://www.creativetriplet.com/ , https://www.yumyumvideos.com/)
 
 - 💬 Ask me about **HTML5/CSS3, BOOTSTRAP, PHP, LARAVEL, CodeIgniter, JQUERY, AJAX, MYSQL, JAVASCRIPT, REACT.JS, NEXT.JS, GATSBY & WORPDRESS**
 
