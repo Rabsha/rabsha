@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rabsha Shakeel</h1>
 <h3 align="center">A Passionate Software Engineer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabsha&label=Profile%20views&color=0e75b6&style=flat" alt="rabsha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabsha&label=Profile%20views&color=0e75b6&style=flat" alt="rabshashakeel" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabsha" alt="rabsha" /></a> </p>
 
