@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [GoToCampus and HR Management System](https://gotocampus.com/)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects (https://bant.io/, https://kyliecosmetics.com/ , https://www.creativetriplet.com/ , https://www.yumyumvideos.com/)
 
