@@ -3,8 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabsha&label=Profile%20views&color=0e75b6&style=flat" alt="rabsha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabsha" alt="rabsha" /></a> </p>
-
 - 🔭 I’m currently working on [Verge Systems](https://www.vergesystems.com/)
 
 - 🌱 I’m currently learning **React js**
