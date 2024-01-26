@@ -1,9 +1,3 @@
-<img align="right" alt="Coding" width="100%" src="https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif">
-<p align=”center”>
-
-<img width=”200" height=”200" src=”https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
-
-</p>
 <h1 align="center">Hi 👋, I'm Rabsha Shakeel</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabsha&label=Profile%20views&color=0e75b6&style=flat" alt="rabsha" /> </p>
