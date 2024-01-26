@@ -1,7 +1,6 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif))]
+<img align="right" alt="Coding" width="400" src="https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif">
 <h1 align="center">Hi 👋, I'm Rabsha Shakeel</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabsha&label=Profile%20views&color=0e75b6&style=flat" alt="rabsha" /> </p>
 
 - 🔭 I’m currently working on [Verge Systems](https://www.vergesystems.com/)
