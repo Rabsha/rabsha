@@ -1,4 +1,4 @@
-<!--<h1 align="center">Hi 👋, I'm Rabsha Shakeel</h1>-->
+<!--<h1 align="center">Hi 👋, I'm Rabsha Shakeel Ahmed Siddiqui</h1>-->
 <div align="center"> <img src="https://github.com/Rabsha/rabsha/blob/main/bannnnerr.png"> </div>
 <h3 align="center">Passionate Full Stack Developer from Pakistan, dedicated to crafting innovative solutions in the dynamic realm of Corporate IT. Excited to collaborate and bring fresh perspectives to the table.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
